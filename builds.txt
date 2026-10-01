@@ -1,0 +1,12 @@
+[
+  {
+    "name": "AnabolicRegime Custom Kodi Build",
+    "url": "https://github.com/AnabolicRegime/kodi-build/releases/download/Initial/Robin_Hood.zip",
+    "minor": "https://",
+    "gui": "https://",
+    "skin": "https://",
+    "version": "1.0.0",
+    "description": "Welcome to the official AnabolicRegime build setup!",
+    "notification": "Thanks for installing my custom build setup! Enjoy!"
+  }
+]
